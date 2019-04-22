@@ -1,3 +1,3 @@
-Baba is you
-Wall is stop
+Wall is you
+Baba is stop
 Flag is win
